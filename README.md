@@ -29,7 +29,7 @@ Users will be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Naveed89-tech/interactiverating](https://github.com/Naveed89-tech/interactiverating)
+- Solution URL: [https://github.com/Naveed89-tech/random-Advice-API](https://github.com/Naveed89-tech/random-Advice-API)
 - Live Site URL: [https://generaterandomadviceapplication.netlify.app//](https://generaterandomadviceapplication.netlify.app/)
 
 ## My process
