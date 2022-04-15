@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    manrope: Manrope;
+    src: url(public/fonts/Manrope/Manrope-ExtraBold.ttf) format("truetype");
+  }
+  :focus {
+    @apply outline-hidden;
+  }
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
